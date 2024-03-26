@@ -1,28 +1,26 @@
-# This is a large heading
+# Nitin Umesh
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet's pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in the city of Bangalore, in the state of Karnataka, in India.
 
-- This is
-- an unordered
-- list
+### Sports
 
-1. This is
-2. an ordered
-3. list
+Three of my favorite sports are:
 
-Here is `some code` in the middle of a sentence.
+- *Basketball*
+- *Table Tennis*
+- *Badminton*
 
-```
-This is
-a block
-of code
-```
+### Food
 
-Here is how you make [a link](https://www.wikipedia.org/).
+Last night I dreamt about eating in these restaurants:
 
-![This is an image.](https://github.com/yihui/xarigan/releases/download/v0.0.2/karl-moustache.jpg)
+1. *Chicken Cashewnut* from Garden Court
+2. *Butter Chicken* from Rangla Punjab
+3. *Moong Dal Halwa* from Chitale Bandhu Mithaiwale
+
+### Contact
+
+The best way to get in touch with me is on email. (I am not going to actually put my email here, as this just me trying to learn how to make a PULL request on Git.)
+
